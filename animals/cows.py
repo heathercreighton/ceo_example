@@ -1,0 +1,1 @@
+print("Cow says 'moo!'")
